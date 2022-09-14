@@ -1,7 +1,12 @@
 #include "main.h"
 #include "6-abs.c"
 #include <stdio.h>
-
+/**
+ * main - Entry point
+ *
+ * Return: Always returns 0
+ *
+ */
 void print_to_98(int n)
 {
 	int i;
