@@ -6,7 +6,7 @@ C is a general-purpose programming language that is extremely popular, simple, a
 
 It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more 
 
-Requirements
+## Requirements
 
 C Programming
 1. Allowed editors: vi, vim, emacs
