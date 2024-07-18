@@ -96,6 +96,7 @@ Function Prototypes
 * **0. Linear search**
   * [0-linear.c](./0-linear.c): C function that searches for a value in an array
   of integers using linear search.
+  - Prototype : ```int linear_search(int *array, size_t size, int value);```
   * If the value is not present or the array is `NULL`, returns `-1`.
 	* Otherwise, returns the first index where `value` is located.
 
